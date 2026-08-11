@@ -1,0 +1,9 @@
+{
+  "versionCode": 84,
+  "versionName": "4.54",
+  "apkUrl": "https://nexvyo.com/downloads/nexvyo-android.apk",
+  "sha256": "A03FC11826F826195523730576ACA38808E3F6D097F0F8CB6DDCC2F1425E3F3E",
+  "sizeBytes": 238581997,
+  "releaseNotes": "NEXVYO's first public release — private encrypted chats, public and private channels, voice and video calls, media and file sharing, saved messages, and contact discovery.",
+  "mandatory": false
+}
