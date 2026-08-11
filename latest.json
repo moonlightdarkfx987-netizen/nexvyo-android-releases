@@ -1,9 +1,9 @@
 {
-  "versionCode": 84,
-  "versionName": "4.54",
+  "versionCode": 85,
+  "versionName": "4.55",
   "apkUrl": "https://nexvyo.com/downloads/nexvyo-android.apk",
-  "sha256": "A03FC11826F826195523730576ACA38808E3F6D097F0F8CB6DDCC2F1425E3F3E",
+  "sha256": "A98F46ABDAD22F5C409E673926DE5DAE3CEEC0DF2C4007B42956A96C2F2C611A",
   "sizeBytes": 238581997,
-  "releaseNotes": "NEXVYO's first public release — private encrypted chats, public and private channels, voice and video calls, media and file sharing, saved messages, and contact discovery.",
+  "releaseNotes": "NEXVYO 4.55 confirms the in-app update path after our first public release. It includes private encrypted chats, public and private channels, voice and video calls, media and file sharing, saved messages, and contact discovery.",
   "mandatory": false
 }
