@@ -1,9 +1,9 @@
 {
-  "versionCode": 91,
-  "versionName": "4.61",
+  "versionCode": 93,
+  "versionName": "4.63",
   "apkUrl": "https://nexvyo.com/downloads/nexvyo-android.apk",
-  "sha256": "6C293FC2FA3D6E073B4F6B5B402703D67A24714F8D780A177ABF5D70DB01F7A3",
-  "sizeBytes": 238943058,
+  "sha256": "13872A2DFAF158C4A7ACBFDF8CBFA1E09F21711A06B8F9BDCDAF780D6AC962E3",
+  "sizeBytes": 238959442,
   "releaseNotes": "Bug fixes and improvements.",
   "mandatory": true
 }
