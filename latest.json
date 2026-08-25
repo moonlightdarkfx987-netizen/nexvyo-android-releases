@@ -1,8 +1,8 @@
 {
-  "versionCode": 100,
+  "versionCode": 102,
   "versionName": "4.70",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/nexvyo-android-releases/releases/download/v4.70/NEXVYO-4.70.apk",
-  "sha256": "BB70C666913BD0C4B19F101F8CFA7ADB4B1D3169D7A5804780DEAA22152B366D",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/nexvyo-android-releases/releases/download/v4.70/NEXVYO-4.70-v102.apk",
+  "sha256": "FE48069B9A9CA5FA0F7C8FF9D173FB3514EAEF1855F37D3B67B81520984BE8B5",
   "sizeBytes": 240285945,
   "releaseNotes": "Bug fixes",
   "mandatory": true
