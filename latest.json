@@ -1,8 +1,8 @@
 {
-  "versionCode": 106,
+  "versionCode": 107,
   "versionName": "4.73",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/nexvyo-android-releases/releases/download/v4.73-v106/NEXVYO-4.73-v106.apk",
-  "sha256": "C66A5D19C41499E44EF997AF1BC15EEE04DE7AA935B00203B436976EC76D3173",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/nexvyo-android-releases/releases/download/v4.73-v107/NEXVYO-4.73-v107.apk",
+  "sha256": "F598E2F0410E6990221DA7E034D27085C16822AD86CE21D603614CBA426E23B5",
   "sizeBytes": 240155949,
   "releaseNotes": "1st release of nexvyo messenger\nSecure device-based messaging\nChannels and Saved Messages\nVideo conferences with screen sharing\nUltra-smooth performance",
   "mandatory": true
