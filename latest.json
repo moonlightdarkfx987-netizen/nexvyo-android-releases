@@ -1,9 +1,9 @@
 {
-  "versionCode": 108,
-  "versionName": "4.74",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/nexvyo-android-releases/releases/download/v4.74-v108/NEXVYO-4.74-v108.apk",
-  "sha256": "9B044494221AED110B71EFD99A41DD548C21CC20F40E3CB7C1A9FA3507AF658A",
-  "sizeBytes": 240155949,
-  "releaseNotes": "Corrected release version numbering\nUpdate screens now show version and build numbers\nSecure device-based messaging\nVideo conferences with screen sharing\nUltra-smooth performance",
+  "versionCode": 110,
+  "versionName": "4.76",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/nexvyo-android-releases/releases/download/v4.76-v110/NEXVYO-4.76-v110.apk",
+  "sha256": "E0843F0D2BB062CB892DAC3F142C3C06562F46D1E841B594F1EB0681F35DC9E9",
+  "sizeBytes": 240174205,
+  "releaseNotes": "bug fixes",
   "mandatory": true
 }
