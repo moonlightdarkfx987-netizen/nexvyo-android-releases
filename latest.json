@@ -1,9 +1,9 @@
 {
-  "versionCode": 110,
-  "versionName": "4.76",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/nexvyo-android-releases/releases/download/v4.76-v110/NEXVYO-4.76-v110.apk",
-  "sha256": "E0843F0D2BB062CB892DAC3F142C3C06562F46D1E841B594F1EB0681F35DC9E9",
-  "sizeBytes": 240174205,
-  "releaseNotes": "bug fixes",
+  "versionCode": 111,
+  "versionName": "4.77",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/nexvyo-android-releases/releases/download/v4.77-v111/NEXVYO-4.77-v111.apk",
+  "sha256": "39a6c3c1b3f8ba81378db14d3d8322e9469bb087051896bc9b60465eb2a9dcae",
+  "sizeBytes": 296258572,
+  "releaseNotes": "Channel stories are now available.\nNew wallpapers are available.\nGPU blur is now available in chats.",
   "mandatory": true
 }
